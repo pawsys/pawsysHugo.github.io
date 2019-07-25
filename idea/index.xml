@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ideas on My New Hugo Site</title>
+    <link>http://pawsys.github.io/idea/</link>
+    <description>Recent content in Ideas on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 12:35:24 -0700</lastBuildDate>
+    
+	<atom:link href="http://pawsys.github.io/idea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wisdom is is just covering blindspots in your mentalmodel map of knowledge</title>
+      <link>http://pawsys.github.io/idea/we-dont-see-world-as-it-is/</link>
+      <pubDate>Thu, 02 May 2019 12:35:24 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/idea/we-dont-see-world-as-it-is/</guid>
+      <description>Loorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Wisdom Is Just Covering Blindspots</title>
+      <link>http://pawsys.github.io/idea/wisdom-is-just-covering-blindspots/</link>
+      <pubDate>Thu, 02 May 2019 12:20:36 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/idea/wisdom-is-just-covering-blindspots/</guid>
+      <description>Wisdom is is just covering blindspots in your mentalmodel map of knowledge</description>
+    </item>
+    
+  </channel>
+</rss>

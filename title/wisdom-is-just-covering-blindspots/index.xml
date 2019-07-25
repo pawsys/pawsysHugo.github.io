@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wisdom Is Just Covering Blindspots on My New Hugo Site</title>
+    <link>http://pawsys.github.io/title/wisdom-is-just-covering-blindspots/</link>
+    <description>Recent content in Wisdom Is Just Covering Blindspots on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 12:20:36 -0700</lastBuildDate>
+    
+	<atom:link href="http://pawsys.github.io/title/wisdom-is-just-covering-blindspots/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wisdom Is Just Covering Blindspots</title>
+      <link>http://pawsys.github.io/idea/wisdom-is-just-covering-blindspots/</link>
+      <pubDate>Thu, 02 May 2019 12:20:36 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/idea/wisdom-is-just-covering-blindspots/</guid>
+      <description>Wisdom is is just covering blindspots in your mentalmodel map of knowledge</description>
+    </item>
+    
+  </channel>
+</rss>

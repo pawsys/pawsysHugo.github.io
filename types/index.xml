@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Types on My New Hugo Site</title>
+    <link>http://pawsys.github.io/types/</link>
+    <description>Recent content in Types on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 12:35:24 -0700</lastBuildDate>
+    
+	<atom:link href="http://pawsys.github.io/types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>idea</title>
+      <link>http://pawsys.github.io/types/idea/</link>
+      <pubDate>Thu, 02 May 2019 12:35:24 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/types/idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>link</title>
+      <link>http://pawsys.github.io/types/link/</link>
+      <pubDate>Thu, 02 May 2019 11:48:28 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/types/link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>definition</title>
+      <link>http://pawsys.github.io/types/definition/</link>
+      <pubDate>Wed, 01 May 2019 15:52:24 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/types/definition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

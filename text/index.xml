@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texts on My New Hugo Site</title>
+    <link>http://pawsys.github.io/text/</link>
+    <description>Recent content in Texts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 17:14:49 -0700</lastBuildDate>
+    
+	<atom:link href="http://pawsys.github.io/text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://pawsys.github.io/text/markdown/</link>
+      <pubDate>Wed, 01 May 2019 17:14:49 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/text/markdown/</guid>
+      <description>Scratch this.
+ something something else  H1 H2 H3 H4 H5 H6 Alt-H2 Emphasis, aka italics, with asterisks or underscores.
+Strong emphasis, aka bold, with asterisks or underscores.
+Combined emphasis with asterisks and underscores.
+Strikethrough uses two tildes. Scratch this. * unordered list * laksjdfalss
+ ordered list ordered list laskdfjalk  
+I&amp;rsquo;m an inline-style link
+I&amp;rsquo;m an inline-style link with title
+
+Inline-style image:
+Inline code has back-ticks around it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,99 @@
+@tailwind base;
+
+
+html {
+	font-family: 'Noto Serif', serif;
+}
+
+:root {
+	--primary-color: #6220E6;
+  }
+
+
+h1 {
+  @apply text-2xl;
+}
+h2 {
+  @apply text-xl;
+}
+h3 {
+  @apply text-lg;
+}
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+
+
+.sans-font {
+	font-family: 'Roboto', sans-serif;
+}
+
+.mono-font {
+	font-family: 'Roboto Mono';
+	font-weight: 300;
+}
+
+
+
+a {
+	text-decoration: none;
+	color: #007AFF;
+}
+
+a:visited {
+	color: #005CBF;
+}
+
+p {
+	line-height: 1.4rem;
+}
+
+
+.roboto {
+	font-family: 'Roboto', sans-serif;
+}
+
+blockquote {
+	border-left: 1px solid var(--primary-color);
+	padding-left: 2rem;
+}
+
+/* after tailwind */
+ul {
+	list-style-type: disc;
+	list-style-position: inside;}
+
+
+/***** Trash? *****/
+
+
+
+/* * {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+} */
+
+/* h1 {
+	padding: 0;
+	margin: 0;
+} */
+
+/* p, h1, h2, h3, h4, h5, h6 {
+
+} */
+
+/* h1 {font-size: 2rem;}
+h2 {font-size: 1.5rem;}
+h3 {font-size: 1.17rem;}
+h4 {font-size: 1rem;}
+h5 {font-size: 0.83rem;}
+h6 {font-size: 0.67rem;}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;} */
+
+
+

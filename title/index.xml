@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Title on My New Hugo Site</title>
+    <link>http://pawsys.github.io/title/</link>
+    <description>Recent content in Title on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 12:35:24 -0700</lastBuildDate>
+    
+	<atom:link href="http://pawsys.github.io/title/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wisdom is is just covering blindspots in your mentalmodel map of knowledge</title>
+      <link>http://pawsys.github.io/title/wisdom-is-is-just-covering-blindspots-in-your-mentalmodel-map-of-knowledge/</link>
+      <pubDate>Thu, 02 May 2019 12:35:24 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/title/wisdom-is-is-just-covering-blindspots-in-your-mentalmodel-map-of-knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wisdom Is Just Covering Blindspots</title>
+      <link>http://pawsys.github.io/title/wisdom-is-just-covering-blindspots/</link>
+      <pubDate>Thu, 02 May 2019 12:20:36 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/title/wisdom-is-just-covering-blindspots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Google Learned From Its Quest to Build the Perfect Team</title>
+      <link>http://pawsys.github.io/title/what-google-learned-from-its-quest-to-build-the-perfect-team/</link>
+      <pubDate>Thu, 02 May 2019 11:48:28 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/title/what-google-learned-from-its-quest-to-build-the-perfect-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Numbers Game</title>
+      <link>http://pawsys.github.io/title/the-numbers-game/</link>
+      <pubDate>Thu, 02 May 2019 11:20:02 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/title/the-numbers-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://pawsys.github.io/title/markdown/</link>
+      <pubDate>Wed, 01 May 2019 17:14:49 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/title/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fat</title>
+      <link>http://pawsys.github.io/title/fat/</link>
+      <pubDate>Wed, 01 May 2019 15:52:24 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/title/fat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
