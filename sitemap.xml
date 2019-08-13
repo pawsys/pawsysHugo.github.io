@@ -21,6 +21,12 @@
   </url>
   
   <url>
+    <loc>http://pawsys.github.io/collections/</loc>
+    <lastmod>2019-05-02T12:35:24-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://pawsys.github.io/title/</loc>
     <lastmod>2019-05-02T12:35:24-07:00</lastmod>
     <priority>0</priority>
@@ -50,6 +56,12 @@
   </url>
   
   <url>
+    <loc>http://pawsys.github.io/collections/text/</loc>
+    <lastmod>2019-05-02T12:35:24-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://pawsys.github.io/title/wisdom-is-just-covering-blindspots/</loc>
     <lastmod>2019-05-02T12:20:36-07:00</lastmod>
     <priority>0</priority>
@@ -58,6 +70,12 @@
   <url>
     <loc>http://pawsys.github.io/wisdom-is-just-covering-blindspots/</loc>
     <lastmod>2019-05-02T12:20:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://pawsys.github.io/collections/idea/</loc>
+    <lastmod>2019-05-02T12:20:36-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -73,6 +91,12 @@
   
   <url>
     <loc>http://pawsys.github.io/types/link/</loc>
+    <lastmod>2019-05-02T11:48:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pawsys.github.io/collections/link/</loc>
     <lastmod>2019-05-02T11:48:28-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -130,11 +154,6 @@
   
   <url>
     <loc>http://pawsys.github.io/4/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://pawsys.github.io/collections/</loc>
     <priority>0</priority>
   </url>
   

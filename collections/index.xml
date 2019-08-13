@@ -6,9 +6,37 @@
     <description>Recent content in Collections on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 12:35:24 -0700</lastBuildDate>
     
 	<atom:link href="http://pawsys.github.io/collections/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>text</title>
+      <link>http://pawsys.github.io/collections/text/</link>
+      <pubDate>Thu, 02 May 2019 12:35:24 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/collections/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idea</title>
+      <link>http://pawsys.github.io/collections/idea/</link>
+      <pubDate>Thu, 02 May 2019 12:20:36 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/collections/idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>link</title>
+      <link>http://pawsys.github.io/collections/link/</link>
+      <pubDate>Thu, 02 May 2019 11:48:28 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/collections/link/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
