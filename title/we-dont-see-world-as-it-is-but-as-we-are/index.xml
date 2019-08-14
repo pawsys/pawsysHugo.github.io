@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>text on My New Hugo Site</title>
-    <link>http://pawsys.github.io/collections/text/</link>
-    <description>Recent content in text on My New Hugo Site</description>
+    <title>We don&#39;t see world as it is but as we are on My New Hugo Site</title>
+    <link>http://pawsys.github.io/title/we-dont-see-world-as-it-is-but-as-we-are/</link>
+    <description>Recent content in We don&#39;t see world as it is but as we are on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 May 2019 12:35:24 -0700</lastBuildDate>
     
-	<atom:link href="http://pawsys.github.io/collections/text/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pawsys.github.io/title/we-dont-see-world-as-it-is-but-as-we-are/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,25 +18,6 @@
       
       <guid>http://pawsys.github.io/we-dont-see-world-as-it-is/</guid>
       <description>Loorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>http://pawsys.github.io/markdown/</link>
-      <pubDate>Wed, 01 May 2019 17:14:49 -0700</pubDate>
-      
-      <guid>http://pawsys.github.io/markdown/</guid>
-      <description>Scratch this.
- something something else  H1 H2 H3 H4 H5 H6 Alt-H2 Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.
-Strikethrough uses two tildes. Scratch this. * unordered list * laksjdfalss
- ordered list ordered list laskdfjalk  
-I&amp;rsquo;m an inline-style link
-I&amp;rsquo;m an inline-style link with title
-
-Inline-style image:
-Inline code has back-ticks around it.</description>
     </item>
     
   </channel>

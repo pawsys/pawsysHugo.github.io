@@ -39,7 +39,7 @@
   </url>
   
   <url>
-    <loc>http://pawsys.github.io/title/wisdom-is-is-just-covering-blindspots-in-your-mentalmodel-map-of-knowledge/</loc>
+    <loc>http://pawsys.github.io/title/we-dont-see-world-as-it-is-but-as-we-are/</loc>
     <lastmod>2019-05-02T12:35:24-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -51,6 +51,12 @@
   
   <url>
     <loc>http://pawsys.github.io/types/idea/</loc>
+    <lastmod>2019-05-02T12:35:24-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pawsys.github.io/collections/link/</loc>
     <lastmod>2019-05-02T12:35:24-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -91,12 +97,6 @@
   
   <url>
     <loc>http://pawsys.github.io/types/link/</loc>
-    <lastmod>2019-05-02T11:48:28-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://pawsys.github.io/collections/link/</loc>
     <lastmod>2019-05-02T11:48:28-07:00</lastmod>
     <priority>0</priority>
   </url>

@@ -6,10 +6,19 @@
     <description>Recent content in link on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 May 2019 11:48:28 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2019 12:35:24 -0700</lastBuildDate>
     
 	<atom:link href="http://pawsys.github.io/collections/link/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>We don&#39;t see world as it is but as we are</title>
+      <link>http://pawsys.github.io/we-dont-see-world-as-it-is/</link>
+      <pubDate>Thu, 02 May 2019 12:35:24 -0700</pubDate>
+      
+      <guid>http://pawsys.github.io/we-dont-see-world-as-it-is/</guid>
+      <description>Loorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
     
     <item>
       <title>What Google Learned From Its Quest to Build the Perfect Team</title>
